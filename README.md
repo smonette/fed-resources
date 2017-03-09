@@ -15,7 +15,13 @@ It's also good to be aware of templating tools like [Mustache](https://mustache.
 
 
 ### Git
+Get comfortable with version control systems like Git or Subversion. Start looking at other peoples code on Github, and practice the workflow of branching, pull requests, merging. Star repos that seem exciting!
+
 #### Courses
+[Git Workflow](https://guides.github.com/introduction/flow/)
+
+[Another Git Workflow](https://bocoup.com/blog/git-workflow-walkthrough-feature-branches)
+
 [CodeSchool Git](https://www.codeschool.com/learn/git)
 
 
@@ -42,7 +48,11 @@ If your site is going to be highly customized, I'd recommend starting from scrat
  
  
 ### FED "thoughtleaders" 
+[Jenn Schiffer - Javascript](https://twitter.com/jennschiffer)
 
+[Wes Bos - Javascript/CSS](https://twitter.com/wesbos)
+
+[Sarah Drasner - CSS](https://twitter.com/sarah_edo)
 
 
 ## Inspiration
