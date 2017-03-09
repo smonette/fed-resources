@@ -5,6 +5,9 @@ Here's a list of good resources when you're starting to explore front-end develo
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [CodeSchool HTML+CSS](https://www.codeschool.com/learn/html-css)
 * [CSS Tricks - Blog](https://css-tricks.com/snippets/css/)
+* [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/dist/index.html)
+* [Normalize CSS reset sheet](https://necolas.github.io/normalize.css/)
+* [Nuthin - CSS reset sheet](https://raw.githubusercontent.com/muledesign/nuthin/master/nuthin.css)
 
 Most sites are built using a CSS preprocessor like [Sass](http://sass-lang.com/). Sass allows you to build code systems (setting variables and standard styling) very easily. You can also break your files into partials, that compile into one big file. This makes it so much easier to navigate and maintain when you're not staring at thousands of lines of styling.
 
