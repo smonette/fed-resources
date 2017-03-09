@@ -13,7 +13,7 @@ It's also good to be aware of templating tools like [Mustache](https://mustache.
 
 
 ### Git
-Get comfortable with version control systems like Git or Subversion. Start looking at other peoples code on Github, and practice the workflow of branching, pull requests, merging. Star repos that seem exciting!
+Get comfortable with version control systems like Git or Subversion. Start looking at other peoples code on Github, and practice the workflow of branching, pull requests, merging. Star repos that seem exciting! (Seriously, if you find a good resource, send a PR to this repo!)
 
 * [Git Workflow](https://guides.github.com/introduction/flow/)
 * [Another Git Workflow](https://bocoup.com/blog/git-workflow-walkthrough-feature-branches)
