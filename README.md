@@ -60,7 +60,7 @@ If your site is going to be highly customized, I'd recommend starting from scrat
 
 
 
-### Inspiration
+### Finding Inspiration
 1. Look for coding meetups in your city. My fave is  "The Mixin" for Sass devs in SF.
 2. Follow interesting writers and speakers on Twitter.
 3. Learn by doing. If you want to get good at something, give it a try.
@@ -70,7 +70,7 @@ If your site is going to be highly customized, I'd recommend starting from scrat
 
 
 
-### Last Minute Advice
+### Last Thoughts
 - Think of writing code as building system. _Not_ making a site.
 - SCOPE YOUR CSS! Never apply styles directly on a element.
 - NEVER apply CSS to an ID. IDs have too much weight in the cascade and it'll bite you in the ass later.
